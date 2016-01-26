@@ -1,0 +1,28 @@
+name: 'STARR & CO'
+favicon: null
+layout_spectrum: 0.7616271006409079
+typography_spectrum: 0.03185052168555558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11774796899408102
+  lightness: 0.4137374081183225
+  saturation: 0.06276972242631018
+  rhythmicContrast: 0.9178770440630615
+purpose: []
